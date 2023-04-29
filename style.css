@@ -1,0 +1,65 @@
+.Nav-bar{
+    margin-left: 10vw;
+    margin-right: 15vw;
+}
+.logo{
+    font-weight:500;
+}
+.myimg{
+    height: 100vh;
+}
+
+.sec1{
+    height: 50vh;
+}
+
+.myflex{
+    display: flex;
+    justify-content: center;
+    height: 45vh;
+    flex-wrap: wrap;
+}
+.mydiv{
+    width: 380px;
+    margin: 10px;
+
+}
+.mydiv img{
+    width: 100%;
+    height: 100%;
+}
+.myflex2{
+    display: flex;
+    justify-content: center;
+    height: 40vh;
+    flex-wrap: wrap;
+}
+.sec2{
+    height: 90vh;
+}
+.foot{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.subF{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
+/*@media screen and (min-width: 1500px) {
+    .sec1{
+        height: 50vh;
+    }
+    .sec2{
+        height: 90vh;
+    }
+  }
+  @media screen and (min-width: 300px) {
+    .sec1{
+        height: 90vh;
+    }
+    .sec2{
+        height: 200vh;
+    }
+  }*/
